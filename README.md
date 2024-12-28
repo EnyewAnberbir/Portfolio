@@ -4,7 +4,7 @@
 
 ---
 
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/EnyewAnberbir/Portfolio)
 
 ---
 
@@ -18,7 +18,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://.netlify.app/).
 
 ---
 
@@ -219,3 +219,5 @@ npm install -g next
 This installs Next.js globally
 
 then do the usual `npm run dev`
+
+next projects have the project that express the our project 
